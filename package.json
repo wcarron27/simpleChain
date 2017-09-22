@@ -1,0 +1,28 @@
+{
+  "name": "simplechain",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A naive blockchain implementation in shitty ES6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "dist/index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "blockchain",
+    "linked list",
+    "ES6",
+    "simpleChain"
+  ],
+  "author": "William Carron",
+  "homepage": "https://github.com/wcarron27/simpleChain#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wcarron27/simpleChain.git"
+  }
+}
